@@ -1,6 +1,11 @@
 Name: Amanjot Girn
+<br />
+
 Age: 17
+<br />
+
 Education: High School, Grade 11
+<br />
 
 I enjoy applying my coding skills and knowledge about Physics to make simulations that occur in real-life applications. Taking this passion I've posted YouTube video online explaining how I coded the entire simulation and the Physics was enhanced when coding these projects. Outside of coding, I like going to the gym, playing basketball, editing, and studying.  
 
