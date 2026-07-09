@@ -7,6 +7,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AsG520&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # 📷 Videos
+<h3>Simulating Projectile Motion in Java</h3>
 <img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/c5bc076c-54d8-4732-94f1-c740b93316e0" />
 
 ## 🌐 Socials:
