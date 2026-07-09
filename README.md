@@ -1,9 +1,7 @@
 Name: Amanjot Girn
 <br />
-
 Age: 17
 <br />
-
 Education: High School, Grade 11
 <br />
 
