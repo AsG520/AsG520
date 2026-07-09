@@ -7,7 +7,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AsG520&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # 📷 Videos
-<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/c5bc076c-54d8-4732-94f1-c740b93316e0" />
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/c5bc076c-54d8-4732-94f1-c740b93316e0" />
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/srqA35jrP) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@asgirn520) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asgirn520@gmail.com)
