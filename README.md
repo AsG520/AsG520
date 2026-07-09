@@ -13,5 +13,5 @@
 <h4>Simulating Friction in Java</h4>
 <img width="320" height="180" alt="Image" src="https://github.com/user-attachments/assets/2f97d7aa-ac48-4e21-8514-659727426bb4" />
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/srqA35jrP) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@asgirn520) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asgirn520@gmail.com)
