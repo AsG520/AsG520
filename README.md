@@ -6,5 +6,8 @@
 ![](https://streak-stats.demolab.com/?user=AsG520&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AsG520&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+# 📷 Videos
+<iframe width="560" height="315" src="https://www.youtube.com/embed/__3sOAAOZck?si=Enu8BbcH6K21hegI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/srqA35jrP) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@asgirn520) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asgirn520@gmail.com)
