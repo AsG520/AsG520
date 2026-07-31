@@ -13,7 +13,11 @@ Age: 17
 Education: High School, Grade 12
 <br />
 
-I enjoy applying my coding skills and knowledge about Physics to make simulations that occur in real-life applications. Taking this passion I've posted YouTube video online explaining how I coded the entire simulation and the Physics that was enhanced when coding these projects. Outside of coding, I like going to the gym, playing basketball, editing, and studying.  
+I enjoy applying my coding skills and knowledge about Physics to make simulations that occur in real-life applications. 
+
+Taking this passion I've posted YouTube video online explaining how I coded the entire simulation and the Physics that was enhanced when coding these projects. 
+
+Outside of coding, I like going to the gym, playing basketball, editing, and studying.  
 
 ## 🚀 Projects in Progress
 - <a href=https://github.com/AsG520/Planet-Orbit-Simulation-Project target=_blank>Planet Orbit Simulation</a>
@@ -22,10 +26,10 @@ I enjoy applying my coding skills and knowledge about Physics to make simulation
 
 ## 📷 Videos
 <h4>Simulating Projectile Motion in Java</h4>
-<img width="320" height="180" alt="Image" src="https://github.com/user-attachments/assets/c5bc076c-54d8-4732-94f1-c740b93316e0" />
+<a href=https://youtu.be/__3sOAAOZck?si=6fH8xJ1gPEBhA-3r target=_blank><img width="320" height="180" alt="Image" src="https://github.com/user-attachments/assets/c5bc076c-54d8-4732-94f1-c740b93316e0" /></a>
 <br />
 <h4>Simulating Friction in Java</h4>
-<img width="320" height="180" alt="Image" src="https://github.com/user-attachments/assets/2f97d7aa-ac48-4e21-8514-659727426bb4" />
+<a href=https://youtu.be/_NHbPYDnwoY?si=yXb7PFcvDUpFy9WM target=_blank><img width="320" height="180" alt="Image" src="https://github.com/user-attachments/assets/2f97d7aa-ac48-4e21-8514-659727426bb4" /></a>
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/srqA35jrP) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@asgirn520) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asgirn520@gmail.com)
