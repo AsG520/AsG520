@@ -25,10 +25,10 @@ Outside of coding, I like going to the gym, playing basketball, editing, and stu
 - <a href=https://github.com/AsG520/The-Great-Canadian-Swim-App-Project target=_blank>The Great Canadian Swim App</a>
 
 ## ⏳ Videos in Progress
-- Simulating Bohr-Hydrogen Atom in Java - July, 2026 to September, 2026
-- Simulating Trajectory of a Ball under Gravitational Acceleration in Java - August, 2026 to September, 2026
-- Simulating Elastic Collisions in Java - October, 2026 to November, 2026
-- Simulating a Inclined Plane in Java - December, 2026 to January, 2027
+- Simulating Bohr-Hydrogen Atom in Java - July, 2026 to September, 2026 [<a href="https://github.com/AsG520/Bohr-Hydrogen-Atom-Simulation-Project" target="_blank">Bohr-Hydrogen-Atom-Simulation-Project</a>]
+- Simulating Trajectory of a Ball under Gravitational Acceleration in Java - August, 2026 to September, 2026 [<a href="https://github.com/AsG520/Trajectory-of-a-Ball-under-Gravitational-Acceleration-Simulation-Project" target="_blank">Trajectory-of-a-Ball-under-Gravitational-Acceleration-Simulation-Project</a>]
+- Simulating Elastic Collisions in Java - October, 2026 to November, 2026 [<a href="https://github.com/AsG520/Elastic-Collision-Simulation-Project" target="_blank">Elastic-Collision-Simulation-Project</a>]
+- Simulating a Inclined Plane in Java - December, 2026 to January, 2027 [<a href="https://github.com/AsG520/Inclined-Plane-Simulation-Project" target="_blank">Inclined-Plane-Simulation-Project</a>]
 
 ## 📷 Videos
 <h4>Simulating Projectile Motion in Java</h4>
