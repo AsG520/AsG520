@@ -24,6 +24,12 @@ Outside of coding, I like going to the gym, playing basketball, editing, and stu
 - <a href=https://github.com/AsG520/Weather-App-Project target=_blank>Weather App</a> 
 - <a href=https://github.com/AsG520/The-Great-Canadian-Swim-App-Project target=_blank>The Great Canadian Swim App</a>
 
+## ⏳ Videos in Progress
+- Simulating Bohr-Hydrogen Atom in Java - July, 2026 to September, 2026
+- Simulating Trajectory of a Ball under Gravitational Acceleration in Java - August, 2026 to September, 2026
+- Simulating Elastic Collisions in Java - October, 2026 to November, 2026
+- Simulating a Inclined Plane in Java - December, 2026 to January, 2027
+
 ## 📷 Videos
 <h4>Simulating Projectile Motion in Java</h4>
 <a href=https://youtu.be/__3sOAAOZck?si=6fH8xJ1gPEBhA-3r target=_blank><img width="320" height="180" alt="Image" src="https://github.com/user-attachments/assets/c5bc076c-54d8-4732-94f1-c740b93316e0" /></a>
