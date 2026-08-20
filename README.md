@@ -52,3 +52,4 @@ Outside of coding, I like going to the gym, playing basketball, editing, and stu
 <a href="https://www.youtube.com/@asgirn520" target="_blank"><img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/c36a343a-ed6d-4834-b886-bd418a7736c8" /></a>
 <a href="https://discord.com/invite/srqA35jrP" target="_blank"><img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/c2dfa94f-b237-4f4c-b565-a0cce18840ed" /></a>
 <a href="https://leetcode.com/u/asgirn520/" target="_blank"><img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/37531e2b-8797-4e41-85d8-0b316bbc7614" /></a>
+<a href="asg520.github.io/Latest-Personal-Website-Project"><img width="55" height="50" alt="Image" src="https://github.com/user-attachments/assets/57529c10-8f27-44f7-aaf2-43a676e4c12d" /></a>
