@@ -33,12 +33,13 @@ Outside of coding, I like going to the gym, playing basketball, editing, and stu
 - <a href=https://github.com/AsG520/3D-Planet-Orbit-Simulation-Project target=_blank>3D Planet Orbit Simulation</a>
 
 ## ⏳ Videos in Progress
-- Simulating Bohr-Hydrogen Atom in Java - July, 2026 to September, 2026 [<a href="https://github.com/AsG520/Bohr-Hydrogen-Atom-Simulation-Project" target="_blank">Bohr-Hydrogen-Atom-Simulation-Project</a>]
-- Simulating Trajectory of a Ball under Gravitational Acceleration in Java - August, 2026 to September, 2026 [<a href="https://github.com/AsG520/Trajectory-of-a-Ball-under-Gravitational-Acceleration-Simulation-Project" target="_blank">Trajectory-of-a-Ball-under-Gravitational-Acceleration-Simulation-Project</a>]
-- Simulating Elastic Collisions in Java - October, 2026 to November, 2026 [<a href="https://github.com/AsG520/Elastic-Collision-Simulation-Project" target="_blank">Elastic-Collision-Simulation-Project</a>]
-- Simulating a Inclined Plane in Java - December, 2026 to January, 2027 [<a href="https://github.com/AsG520/Inclined-Plane-Simulation-Project" target="_blank">Inclined-Plane-Simulation-Project</a>]
+- Simulating Bohr-Hydrogen Atom in Java - September, 2026 to October, 2026 [<a href="https://github.com/AsG520/Bohr-Hydrogen-Atom-Simulation-Project" target="_blank">Bohr-Hydrogen-Atom-Simulation-Project</a>]
+- Simulating Elastic Collisions in Java - November, 2026 to December, 2026 [<a href="https://github.com/AsG520/Elastic-Collision-Simulation-Project" target="_blank">Elastic-Collision-Simulation-Project</a>]
+- Simulating a Inclined Plane in Java - January, 2027 to February, 2027 [<a href="https://github.com/AsG520/Inclined-Plane-Simulation-Project" target="_blank">Inclined-Plane-Simulation-Project</a>]
 
 ## 📷 Videos
+<h4>Simulating Trajectory of a Ball under Gravitational Acceleration in Java</h4>
+<a href="https://youtu.be/VXbtSbnVNuI?si=hXs_O6EYCAwkiYQU"><img width="320" height="180" alt="Image" src="https://github.com/user-attachments/assets/22461a83-319f-4425-a61b-6f2de4dafdcf" /></a>
 <h4>Simulating Projectile Motion in Java</h4>
 <a href=https://youtu.be/__3sOAAOZck?si=6fH8xJ1gPEBhA-3r target=_blank><img width="320" height="180" alt="Image" src="https://github.com/user-attachments/assets/c5bc076c-54d8-4732-94f1-c740b93316e0" /></a>
 <br />
