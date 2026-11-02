@@ -29,9 +29,8 @@ Taking this passion I've posted YouTube video online explaining how I coded the 
 Outside of coding, I like going to the gym, playing basketball, editing, and studying.  
 
 ## 🚀 Projects in Progress
-- <a href=https://github.com/AsG520/Planet-Orbit-Simulation-Project target=_blank>Planet Orbit Simulation</a>
-- <a href=https://github.com/AsG520/Weather-App-Project target=_blank>Weather App</a> 
 - <a href=https://github.com/AsG520/The-Great-Canadian-Swim-App-Project target=_blank>The Great Canadian Swim App</a>
+- <a href=https://github.com/AsG520/3D-Planet-Orbit-Simulation-Project target=_blank>3D Planet Orbit Simulation</a>
 
 ## ⏳ Videos in Progress
 - Simulating Bohr-Hydrogen Atom in Java - July, 2026 to September, 2026 [<a href="https://github.com/AsG520/Bohr-Hydrogen-Atom-Simulation-Project" target="_blank">Bohr-Hydrogen-Atom-Simulation-Project</a>]
